@@ -1,0 +1,2 @@
+# lojadegames
+Atividade Bloc2
